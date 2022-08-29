@@ -1,0 +1,13 @@
+ba_barney.wav
+ben_ben.wav
+ben_no.wav
+ben_yes.wav
+g_slime.wav
+g_what.wav
+g_what_stereo.wav
+hecu_heisfamous.wav
+sci_dargh.wav
+sci_shutup.wav
+smosh_shutup.wav
+sounds.txt
+vox_woop.wav

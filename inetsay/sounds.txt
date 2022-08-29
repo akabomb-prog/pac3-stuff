@@ -7,6 +7,7 @@ g_what.wav
 g_what_stereo.wav
 hecu_account.wav
 hecu_andques.wav
+hecu_happybday.wav
 hecu_heisfamous.wav
 hecu_relax.wav
 hecu_swingthetango.wav

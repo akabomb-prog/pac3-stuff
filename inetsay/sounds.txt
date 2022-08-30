@@ -9,6 +9,7 @@ hecu_account.wav
 hecu_andques.wav
 hecu_happybday.wav
 hecu_heisfamous.wav
+hecu_internet.wav
 hecu_relax.wav
 hecu_swingthetango.wav
 hecu_wronge.wav

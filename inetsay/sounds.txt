@@ -1,7 +1,9 @@
 ba_barney.wav
+ba_lightning.wav
 ben_ben.wav
 ben_no.wav
 ben_yes.wav
+g_scream.wav
 g_slime.wav
 g_what.wav
 g_what_stereo.wav
@@ -13,8 +15,13 @@ hecu_internet.wav
 hecu_relax.wav
 hecu_swingthetango.wav
 hecu_wronge.wav
+icore_fiberglass.wav
+joel_mario.wav
 sci_dargh.wav
+sci_E.wav
+sci_oldandwrong.wav
 sci_shutup.wav
 smosh_shutup.wav
 sounds.txt
 vox_woop.wav
+vox_woopwoop.wav

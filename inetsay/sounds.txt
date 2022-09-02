@@ -1,14 +1,16 @@
 ba_barney.wav
+ba_havesomecheese.wav
 ba_lightning.wav
+ba_milk.wav
 ben_ben.wav
 ben_no.wav
 ben_yes.wav
+g_onsight.wav
 g_scream.wav
 g_slime.wav
 g_what.wav
 g_what_stereo.wav
 hecu_account.wav
-hecu_andques.wav
 hecu_happybday.wav
 hecu_heisfamous.wav
 hecu_internet.wav
@@ -17,6 +19,9 @@ hecu_swingthetango.wav
 hecu_wronge.wav
 icore_fiberglass.wav
 joel_mario.wav
+otis_addict.wav
+otis_reputation.wav
+ro_heretodie.wav
 sci_dargh.wav
 sci_E.wav
 sci_oldandwrong.wav
